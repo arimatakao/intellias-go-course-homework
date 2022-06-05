@@ -2,4 +2,4 @@
 
 Links:
 
-- ✅ [Task 1](https://github.com/arimatakao/intellias-go-course-homework-1)
+- ☑️ [Task 1](https://github.com/arimatakao/intellias-go-course-homework-1)
