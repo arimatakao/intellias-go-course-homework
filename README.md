@@ -2,6 +2,6 @@
 
 Links:
 
-- [ ] [Task 1](https://github.com/arimatakao/intellias-go-course-homework-1)
+- [x] [Task 1](https://github.com/arimatakao/intellias-go-course-homework-1)
 - [ ] Task 2
-- [ ] [Task 3](https://github.com/arimatakao/intellias-go-course-homework-3)
+- [x] [Task 3](https://github.com/arimatakao/intellias-go-course-homework-3)
